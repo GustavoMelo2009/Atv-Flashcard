@@ -22,59 +22,45 @@ criaCartao(
     'Oi em ingles é HI (RAI)'
 )
 
-criarCartao (
+criaCartao(
     'Português',
     'Qual é a classe gramatical da palavra "feliz"?',
-    'Adjetivo.'
+    'Adjetivo'
 )
-criarCartao (
-     'Matemática',
-    'Qual é a fórmula do Teorema de Pitágoras?',
-    'a²=b²+c²'
 
+criaCartao(
+    categoria,
+    pergunta,
+    resposta
 )
-criarCartao (
-     'História',
-    'Qual foi o último czar que a Rússia teve  antes da Revolução Russa?',
-    'Czar Nicolau II'
 
+criaCartao(
+    categoria,
+    pergunta,
+    resposta
 )
-criarCartao (
-    'Geografia',
-    'Qual é a cidade mais populosa do mundo?',
-    'Tokyo'
-)
-criarCartao (
-     'Filosofia',
-    'Quem disse: "Penso, logo existo" ?',
-    'René Descartes'
 
+criaCartao(
+    categoria,
+    pergunta,
+    resposta
 )
-criarCartao (
-     'Sociologia',
-    'O que é cultura para a Sociologia?',
-    'Um conjunto de valores, normas e práticas sociais compartilhadas'
 
+criaCartao(
+    categoria,
+    pergunta,
+    resposta
 )
-criarCartao (
-    'Física',
-    'Qual é a fórmula da velocidade média?',
-    'Vm = ΔS / Δt'
 
+criaCartao(
+    categoria,
+    pergunta,
+    resposta
 )
-criarCartao (
-     'Química',
-    ' O que é uma reação de neutralização?',
-    ' É a reação entre um ácido e uma base, formando sal e água'
-)
-criarCartao (
-    'Biologia',
-    'Onde ocorre a fotossíntese?',
-    ' Nos cloroplastos das células vegetais'
-)
-criarCartao (
-     'Inglês',
-    'Qual o passado de "go" em inglês?',
-    'Went'
 
+criaCartao(
+    categoria,
+    pergunta,
+    resposta
 )
+
