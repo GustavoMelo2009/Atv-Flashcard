@@ -25,7 +25,7 @@ criaCartao(
 criarCartao (
     'Português',
     'Qual é a classe gramatical da palavra "feliz"?',
-    'Adjetivo.',
+    'Adjetivo.'
 )
 criarCartao (
      'Matemática',
