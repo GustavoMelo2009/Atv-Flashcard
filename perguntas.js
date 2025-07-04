@@ -24,10 +24,8 @@ criaCartao(
 
 criarCartao (
     'Português',
-    'O que é uma proparoxítona?',
-    'Português',
-    'Uma proparoxítona é uma palavra cuja sílaba tônica (aquela pronunciada com mais intensidade) é a antepenúltima.'
-
+    'Qual é a classe gramatical da palavra "feliz"?',
+    'Adjetivo.',
 )
 criarCartao (
      'Matemática',
